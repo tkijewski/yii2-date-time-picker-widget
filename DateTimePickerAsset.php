@@ -20,7 +20,7 @@ class DateTimePickerAsset extends AssetBundle
     public $sourcePath = '@vendor/2amigos/yii2-date-time-picker-widget/assets';
 
     public $depends = [
-        'yii\bootstrap\BootstrapPluginAsset'
+        //'yii\bootstrap\BootstrapPluginAsset'
     ];
 
     public function init()
